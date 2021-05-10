@@ -1,17 +1,12 @@
 <h1 align="center"> Vaccine Availability Telegram Notifier </h1>
 
-<p align="center">
-  <img src="https://github.com/arnavkohli/vaccine-availability-telegram-notifier/actions/workflows/ci.yml/badge.svg" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vaccine-availability-telegram-notifier" />
-</p>
+
 
 <p align="center">
     With the initiation of the COVID vaccination drive across India for all individuals above the age of 18, I wrote a telegram bot which alerts the user regarding open slots in the vicinity!
  </p>
- 
- <p align="center">
-    <a href="https://t.me/KohlGuysBot">Check it out!</a>
- </p>
+
+
 
 ## Project Overview
 
@@ -26,7 +21,7 @@ You can also run the local script with your own configurations.
 
 ### Clone this Repository
 ```
-git clone https://github.com/arnavkohli/vaccine-availability-telegram-notifier.git
+git clone https://github.com/viveklanjekar/vaccine-telegram-notify.git
 ```
 
 ### Navigate to the cloned directory & install the dependencies
